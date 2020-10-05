@@ -13,7 +13,7 @@ To handle multiple concurrent requests, I used thread lock to handle file deleti
 There is a index.html file to test the app. The files get uploaded to /Documents folder under the app's root folder.
 Run using IIExpress as https on 44328 port
 
-#Future improvemeents
+# Future improvemeents
 Authentication/Authorization for users
 Permission to handle file deletes
 Save file information in the database
