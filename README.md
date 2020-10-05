@@ -22,3 +22,4 @@ Log API call transactions
 Add tests to handle file upload and download.
 Setup Mock tests
 Multiple concurrent requests, can be extended for other actions
+Docker file is setup for Linux server
